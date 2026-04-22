@@ -1,0 +1,24 @@
+IR Sensor
+V → 3.3V
+G → GND
+S → GPIO 27
+
+Button
+One side → GPIO 14
+Other → GND
+
+Buzzer
+→ GPIO 26
+→ GND
+
+RTC (DS3231)
+SDA → GPIO 21
+SCL → GPIO 22
+VCC → 3.3V
+GND → GND
+
+LCD (I2C)
+SDA → GPIO 21
+SCL → GPIO 22
+VCC → 3.3V
+GND → GND
